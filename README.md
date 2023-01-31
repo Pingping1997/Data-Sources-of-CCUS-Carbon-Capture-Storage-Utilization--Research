@@ -1,5 +1,5 @@
 # Data-Sources-of-CCUS-Research
-Summary of data source and tracking of updates, about CCS/CCU (CCUS), CO2 Sources, CO2 Capture, CO2 Transport, CO2 Storage and CO2 Utilization.
+Summary of data source and tracking of updates, about CCS/CCU (CCUS, Carbon capture, storage/utilization), CO2 Sources, CO2 Capture, CO2 Transport, CO2 Storage and CO2 Utilization.
 Reliable data sources are the basic for system engineering research. I summarized the main data sources of my current research work and welcome to discuss with me, if you also work in this field or feel interested about CCUS research.
 ## CO2 Sources
 - [European Environment Agency](https://www.eea.europa.eu/)
